@@ -1,9 +1,6 @@
-body,html,i,span,p{
+body,html,div{
 	margin: 0;
 	padding: 0;
-}
-html{
-	font-size: 50px;
 }
 body{
 	font-family: "黑体";
@@ -28,29 +25,40 @@ body,html{
 
 /*第一屏*/
 .page1{
-	background: url(../images/page1-bg.jpg);
+	background: url(../images/1.jpg) 50% 50%;
+	background-size: cover;
+	position: relative;
 }
-
+.page1 p{
+	font-size: 50px;
+	color:#999;
+	position: absolute;
+	bottom:150px;
+	left:300px;
+}
 
 /*第二屏*/
 .page2{
-	background: url(../images/277H_02.jpg);
+	background: url(../images/2.jpg) 50% 50%;
+	background-size: cover;
 }
 
 
 /*第三屏*/
 .page3{
-	background: url(../images/4_2_02.jpg);
-	position: relative;
+	background: url(../images/3.jpg) 50% 50%;
+	background-size: cover;
 }
 
 /*第四屏*/
 .page4{
-	background: url(../images/292H_01.jpg);
+	background: url(../images/4.jpg) 50% 50%;
+	background-size: cover;
 }
 
 
 /*第五屏*/
 .page5{
-	background: url(../images/181H_02.jpg);
+	background: url(../images/5.jpg) 50% 50%;
+	background-size: cover;
 }
