@@ -1,3 +1,3 @@
-# 林天琪个站
+## LinTianqi
 
 [LinTianqi](https://lintianqi12.github.io)
