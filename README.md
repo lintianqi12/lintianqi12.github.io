@@ -1,3 +1,3 @@
-# lintianqi12.github.io
+# 林天琪个站
 
-[百度](https://www.baidu.com)
+[林天琪](https://lintianqi12.github.io)
